@@ -1,0 +1,28 @@
+Microsoft Windows [Version 10.0.22631.5624]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Administrator>
+C:\Users\Administrator> cd path/to/your/project-folder
+The system cannot find the path specified.
+
+C:\Users\Administrator>git init
+'git' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Administrator>git remote add origin https://github.com/your-username/your-repo-name.git
+'git' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Administrator>git add .
+'git' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Administrator>git commit -m "Initial commit"
+'git' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Administrator>git branch -M main
+'git' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Administrator>git push -u origin main
